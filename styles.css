@@ -1,1 +1,139 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+.my-playlist{
+	width:600px;
+	height:150px;
+	background-color:white;
+	border:1px solid black;
+	margin: 10px 200px 0px 200px;
+	border-radius:20px
+}
+#list-pro>li{
+	list-style-type:none;
+}
+.playing{
+	width:80%;
+	background-color: rgb(255, 255, 255);
+	padding:20px 20px 20px 20px;
+	border:1px solid black;
+	border-radius:20px
+}
+.video{
+	width:100%;
+}
+.media{
+	width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
